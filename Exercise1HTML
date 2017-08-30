@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title>index.html</title>
+  </head>
+ <style>
+ div{
+      margin=centre;
+     } 
+ </style>
+ <body>
+   <h1>My First Website</h1>
+   <p>Welcome to my website!Here are some things I enjoy.</p>
+    <ul>
+      <li>Web Development</li>
+      <li>Chess</li>
+      <li>Reading</li>
+      <li>Learning</li>
+    </ul> 
+   <h2>Favourite quotes</h2>
+     
